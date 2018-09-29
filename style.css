@@ -14,7 +14,7 @@ body {
   margin: 0 auto;
   width: 460px;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .boxes {
